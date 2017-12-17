@@ -39,31 +39,32 @@
                     @endif
                 </div>
             </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-            <div class="sidebar">
-                <!-- sidebar-area -->
-                <div class=" widget widget-search">
-                    <form>
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Seacrh Here">
-                            <span class="input-group-btn">
-                                <button class="btn btn-primary" type="button"><i class="fa fa-search"></i></button>
-                            </span> </div>
-                    </form>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="sidebar">
+                    <!-- sidebar-area -->
+                    <div class=" widget widget-search">
+                        <form>
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Seacrh Here">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-primary" type="button"><i class="fa fa-search"></i></button>
+                                </span> </div>
+                        </form>
+                    </div>
+                    <div class=" widget widget-categories">
+                        <h2 class="widget-title">Tin tức nổi bật</h2>
+                        <ul class="listnone bullet bullet-arrow-default">
+                            <li><a href="#" class="title"> Gynaecology </a><span><strong> (10) </strong></span></li>
+                            <li><a href="#" class="title"> Obstetrics </a><span><strong> (15) </strong></span></li>
+                            <li><a href="#" class="title"> Infertility </a><span><strong> (20) </strong></span></li>
+                        </ul>
+                    </div>
+                    <!-- /.widget well bg -->
                 </div>
-                <div class=" widget widget-categories">
-                    <h2 class="widget-title">Tin tức nổi bật</h2>
-                    <ul class="listnone bullet bullet-arrow-default">
-                        <li><a href="#" class="title"> Gynaecology </a><span><strong> (10) </strong></span></li>
-                        <li><a href="#" class="title"> Obstetrics </a><span><strong> (15) </strong></span></li>
-                        <li><a href="#" class="title"> Infertility </a><span><strong> (20) </strong></span></li>
-                    </ul>
-                </div>
-                <!-- /.widget well bg -->
+                <!-- /.sidebar-area -->
             </div>
-            <!-- /.sidebar-area -->
         </div>
+
     </div>
 </div>
 <!-- close container -->
