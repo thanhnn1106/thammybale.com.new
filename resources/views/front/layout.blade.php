@@ -7,7 +7,7 @@
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <meta name="description" content="Site is modern design for medical hospital healthcare responsive website templates">
         <meta name="keywords" content="medical website templates, bootstrap medical templates, clinic website template,Medical Hospital Healthcare Mobile Website Templates ">
-        <title>Trường thẫm mỹ Balê - Chuyên đào tạo nghề spa chuyên nghiệp | thammybale.com</title>
+        <title>Trường thẩm mỹ Balê - Chuyên đào tạo nghề spa chuyên nghiệp | thammybale.com</title>
         <!-- Bootstrap -->
         <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
         <!-- Style Css -->
@@ -118,7 +118,11 @@
                             <p>582 Điện Biên Phủ, phường 11, quận 10, Thành phố Hồ Chí Minh.</p>
                             <a href="tel:0913802626" class="link-menu-top">
                                 <i class="ic i-phone"></i>
-                                Hotline: 0913802626
+                                Hotline 1: 0913802626
+                            </a>
+                            <a href="tel:0937855189" class="link-menu-top">
+                                <i class="ic i-phone"></i>
+                                Hotline 2: 0937855189
                             </a>
                             <a href="www.thammybale.com">www.thammybale.com</a>
                         </div>
@@ -128,8 +132,6 @@
                             <h3 class="widget-title">Time Sechdule</h3>
                             <p><span class="open-day">Monday to friday:</span>
                                 <span class="open-time"><strong>9:30am to 7:00pm</strong></span></p>
-                            <p><span class="open-day">saturday to sunday:</span>
-                                <span class="open-time"><strong>9:30am to 2:00pm</strong></span></p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-8 col-xs-12">
@@ -149,7 +151,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                        <p>2017-2018 � Gynaecologist &amp; Obstetrician </p>
+                        <p>2017-2018 Trường thẩm mỹ Balê </p>
                     </div>
                 </div>
             </div>

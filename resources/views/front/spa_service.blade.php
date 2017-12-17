@@ -115,7 +115,7 @@
                             @if ($item->id == $sl->menu_id)
                             <tr>
                                 <td style="text-align: left;"><strong>{{ $sl->service_name_vn }}</strong></td>
-                                <td><strong>{{ $sl->service_price }}.000 VNĐ</strong></td>
+                                <td><strong>Liên hệ</strong></td>
                                 <td><strong>{{ $sl->duration }}</strong></td>
                             </tr>
                             @endif
