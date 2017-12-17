@@ -124,7 +124,7 @@
                                 <i class="ic i-phone"></i>
                                 Hotline 2: 0937855189
                             </a>
-                            <a href="www.thammybale.com">www.thammybale.com</a>
+                            <a href="http://www.thammybale.com">www.thammybale.com</a>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-2 col-sm-6 col-xs-12">
