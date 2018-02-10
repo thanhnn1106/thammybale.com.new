@@ -122,4 +122,21 @@ class Videos extends Authenticatable
         return $result;
     }
 
+    /**
+     * Delete news.
+     *
+     * @return boolean
+     * @author Nguyen Ngoc Thanh <thanh.nn1106@gmail.com>
+     */
+    public static function deleteVideo($id)
+    {
+        $result = false;
+        $videoInfo = Videos::find($id);
+        if ($videoInfo) {
+            $videoInfo->forceDelete();
+            $result = true;
+        }
+
+        return $result;
+    }
 }
